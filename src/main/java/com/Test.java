@@ -1,7 +1,5 @@
 package com;
 
-import org.apache.dubbo.config.annotation.DubboService;
-
 /**
  * @description:
  * @author: Mr.Liu
